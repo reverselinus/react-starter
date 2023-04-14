@@ -30,3 +30,11 @@ npm run dev
 Navigate to http://127.0.0.1:5173 🚀 to see your app running.
 
 Open `src` folder. Select `App.jsx` component file. Change the text "Let's Start" to "Hello World" and save it to see your changes.
+
+## Install Template with Tailwind CSS
+
+To quickly start a basic react project with tailwind css using degit:
+
+```bash
+npx degit reverselinus/react-starter#tailwindcss my-project
+```
